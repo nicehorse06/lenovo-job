@@ -33,7 +33,7 @@
     * Marriage Leave: 8 days (Working day)
     * Prenatal exam leave: 7 days (Working day)
     * Flexible Vacation : 7 days in 2022
-        * 此為補償被砍掉的7天假
+        * 此為額外七天假，補償被砍掉7天的國定假日(如行憲紀念日)
         * 分散在補班天和連假的最後一天再放一天
 * 45歲以下，兩年一次健檢
 

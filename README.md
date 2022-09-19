@@ -56,6 +56,9 @@ Acoustic Signal Processing Engineering | 8
 System On Chip Design Architect | 10
 
 ### ISG General Purpose’s Roles
+
+職稱|Band
+-|-
 DC Power Engineer |	8
 Advisor Mechanical Engineer | 8	
 Compliance Product Safety Engineer | 7
@@ -79,18 +82,19 @@ BIOS Engineer - ARM | 8
 [Open Source Compliance Engineer](https://lenovo.avature.net/en_US/careers/JobDetail/Open-Source-Compliance-Engineer/45126?user=895829) | 8
 
 ### ISG Cloud Services Provider’s Roles
+
+職稱|Band
+-|-
 CSP- Sr BIOS Engineer | 8	
 Sustaining Electrical Engineer(伺服器主機板維護) | 8
 
 ### Supply Chain’s Roles
 
 職稱|Band
-
-Global Commodity Manager | 7
-Sr Purchasing Specialist | 7	
-Project Planner | 7
+-|-
+[Sr Purchasing Specialist](https://lenovo.avature.net/en_US/careers/JobDetail/Sr-Purchasing-Specialist/45198?user=895829) | 7	
 [Solutions Project Manager](https://lenovo.avature.net/en_US/careers/JobDetail/Solutions-Project-Manager/42453?user=895829) | 8
 Sourcing PM | 8
 Project Manager (ODTL) - Dense Server | 8
 [Project Manager (ODTL) - HPC Server](https://lenovo.avature.net/en_US/careers/JobDetail/ISG-Server-ODTL-HPC-Server/43028?user=895829) | 8	
-ECAT Test Strategy & PM | 7	
+[ECAT Test Strategy & PM](https://lenovo.avature.net/en_US/internalcareers/JobDetail/ECAT-test-strategy-PM/44373) | 7	

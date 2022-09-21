@@ -11,10 +11,16 @@
     * Monday – Friday: 9:30 a.m. – 6:00 p.m.
         * 優於部分公司
     * Lunch Hour: 1 hour
-* 上班地點於[南港軟體園區](https://goo.gl/maps/rYdyLoRNE813ENyK6)
-    * 近捷運南港高鐵、捷運南港展覽館、南港軟體園區站
+* 上班地點於台北市
+    * [南港軟體園區](https://goo.gl/maps/rYdyLoRNE813ENyK6)，近捷運南港高鐵、捷運南港展覽館、南港軟體園區站
 * 薪資依據各職別有所不同，個人認為優於業界行情，是外商水準
 * 重視英文能力，有很大的機會用英文跟全球的同事溝通
+* 職缺多為
+    * 硬體工程師
+    * 軟體工程師
+    * 供應鏈管理
+    * Project Manager(PM)
+    * 業務
 
 ## 福利
 * 剛入職員工享有優於勞基法的公司特別休假
@@ -47,7 +53,7 @@ Consumer Leader |9
 Sr Business/Financial Planner | 9
 Senior IC Supplier Quality Excellence | 9
 CV/AI Engineer | 9
-Image Signal Processing Software Engineer | 9
+[Image Signal Processing Software Engineer](https://lenovo.avature.net/en_US/careers/JobDetail/Image-Signal-Processing-Software-Engineer/43739?user=895829) | 9
 VC Engine IOS APP SW Engineer | 8
 VC Engine Window APP SW Engineer | 8
 VC Engine Video Audio SW Engineer(IOS) | 8
@@ -85,8 +91,7 @@ BIOS Engineer - ARM | 8
 
 職稱|Band
 -|-
-CSP- Sr BIOS Engineer | 8	
-Sustaining Electrical Engineer(伺服器主機板維護) | 8
+[CSP- Sr BIOS Engineer](https://lenovo.avature.net/en_US/careers/JobDetail/CSP-Sr-BIOS-Engineer/43191?user=895829) | 8	
 
 ### Supply Chain’s Roles
 
@@ -94,7 +99,12 @@ Sustaining Electrical Engineer(伺服器主機板維護) | 8
 -|-
 [Sr Purchasing Specialist](https://lenovo.avature.net/en_US/careers/JobDetail/Sr-Purchasing-Specialist/45198?user=895829) | 7	
 [Solutions Project Manager](https://lenovo.avature.net/en_US/careers/JobDetail/Solutions-Project-Manager/42453?user=895829) | 8
-Sourcing PM | 8
-Project Manager (ODTL) - Dense Server | 8
+[Project Manager (ODTL) - Dense Server](https://lenovo.avature.net/en_US/careers/JobDetail/ISG-Server-ODTL-Dense-Server/43031?user=895829) | 8
 [Project Manager (ODTL) - HPC Server](https://lenovo.avature.net/en_US/careers/JobDetail/ISG-Server-ODTL-HPC-Server/43028?user=895829) | 8	
-[ECAT Test Strategy & PM](https://lenovo.avature.net/en_US/internalcareers/JobDetail/ECAT-test-strategy-PM/44373) | 7	
+[ECAT Test Strategy & PM](https://lenovo.avature.net/en_US/internalcareers/JobDetail/ECAT-test-strategy-PM/44373) | 7
+
+### Services’ Roles
+
+職稱|Band
+-|-
+[Services Sales & Business Development Manager](https://lenovo.avature.net/en_US/careers/JobDetail/Services-Sales-Business-Development-Manager/45067?user=895829)|8
